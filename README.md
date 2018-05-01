@@ -5,7 +5,7 @@
 - **is it important ?**
 - **tools ?**
 
-## wireframe
+## prototype
 - **what is it ?**
 - **tools ?**
 
@@ -68,7 +68,7 @@ As a user I want to select **FROM** country and **TO** country so that I can see
   - Maven
 
 ### UI
-- Draw Wireframe
+- Draw Prototype
   - FX Dashboard Panel
   - Country List Select for **FROM**
   - Country List Select for **TO**
