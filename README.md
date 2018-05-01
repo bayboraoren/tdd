@@ -1,31 +1,16 @@
 
-# collect requirements
+# HOW TO START
+## collect requirements
 - **what is it ?**
 - **is it important ?**
 - **tools ?**
 
-# wireframe
+## wireframe
 - **what is it ?**
 - **tools ?**
 
-# I select top down development
+## I select top down development
 - **what is it ?**
-
-# LAYERS
-
-## UI
-### REACTJS
-
-## API
-### OPEN API
-
-## SERVICE
-### SPRING BOOT
-
-## DATA
-### SPRING DATA JPA
-
-
 
 # CREATE PROJECT
 As a user I want to select **FROM** country and **TO** country so that I can see Financial Exchange line chart
@@ -54,11 +39,10 @@ As a user I want to select **FROM** country and **TO** country so that I can see
 #### 4. COMBINE ALL
 1. combine fx dashboard ui, api, service and repository implementations
 
-
-
 ## EXAMINE DOMAIN
 
 ### TECHNOLOGIES
+
 - Frontend
   - React JS
     - Material UI
@@ -66,13 +50,20 @@ As a user I want to select **FROM** country and **TO** country so that I can see
     - Jest
     - Chai
     - Enzyme
+    
 - Backend
   - API
     - Rest
       - Open API
       - Spring Rest
-  - Spring Boot
-  - H2 Database In Memory
+  - SERVICE
+    - Spring
+  - REPOSITORY
+    - Spring Data
+    - H2 Database In Memory
+  - Test
+    - Spring Test
+    
 - Software Project Management
   - Maven
 
