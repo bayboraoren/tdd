@@ -4,7 +4,7 @@
 
 [comment]: # (2 hours)
 ## COLLECT REQUIREMENTS
-- **what is it ?** to understand what CUSTOMER NEEDS, not what they WANTS
+- **what is it ?** to understand what **CUSTOMER NEEDS**, not what they **WANTS**
 
 - **what do i need to ?**
   - ask questions
