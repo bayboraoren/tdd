@@ -1,14 +1,16 @@
 
+[comment]: # (Total : 84 hours, 10.5 day)
 # HOW TO START
+[comment]: # (2 hours)
 ## collect requirements
 - **what is it ?**
 - **is it important ?**
-- **tools ?**
-
+- **tools and techniques ?**
+[comment]: # (2 hours)
 ## prototype
 - **what is it ?**
-- **tools ?**
-
+- **tools and techniques ?**
+[comment]: # (4 hours)
 ## I select top down development
 - **what is it ?**
 
@@ -16,6 +18,7 @@
 As a user I want to select **FROM** country and **TO** country so that I can see Financial Exchange line chart
 
 ## TASKS
+[comment]: # (20 hours)
 ### 1. UI
 1. create react project
 2. implement fx dashboard panel
@@ -24,23 +27,24 @@ As a user I want to select **FROM** country and **TO** country so that I can see
 5. combine fx dashboard ui elements
 
 ### 2. BACKEND
+[comment]: # (16 hours)
 #### 1. API
 1. implement country list endpoint
 2. implement fx rate endpoint
-
+[comment]: # (16 hours)
 #### 2. SERVICE
 1. implement country list service
 2. implement fx rate service
-
+[comment]: # (8 hours)
 #### 3. REPOSITORY
 1. implement country list repository
 2. implement fx rate repository
-
+[comment]: # (8 hours)
 #### 4. COMBINE ALL
 1. combine fx dashboard ui, api, service and repository implementations
 
 ## EXAMINE DOMAIN
-
+[comment]: # (8 hours)
 ### TECHNOLOGIES
 
 - Frontend
