@@ -3,10 +3,60 @@
 # HOW TO START
 
 [comment]: # (2 hours)
-## collect requirements
-- **what is it ?**
-- **is it important ?**
+## COLLECT REQUIREMENTS
+- **what is it ?** to understand what CUSTOMER NEEDS, not what they WANTS
+
+- **what do i need to ?**
+  - ask questions
+  - define scopes
+  - use **S.M.A.R.T.**
+    - **S**pecific
+    - **M**easurable
+    - **A**greed upon
+    - **R**ealistic
+    - **T**ime based
+  - use **MoSCoW** principle
+    - Must have
+    - Should have
+    - Could have
+    - Won't have (this time)
+  - confirm that what did you understand
+  - change is an inevitable so, be ready to negotiate with using time and money advantages
+
+
+- **is it important ?** no doubt, yes :)
+
 - **tools and techniques ?**
+
+  - techniques
+    - `mind maps :` to capture ideas, requirements and help organize a conversation with many tangents  
+    - `context diagram :` birds view
+    - `textual analysis :` collect customer needs and extract key terms
+    - `user stories :`  analyse function of a system
+    - `use case diagram :` detail function interaction between x and y
+    - `functional decomposing :` extract functions
+    - `sequence diagram :` detail interactions
+    - `swim lane process model :` understand business processes
+
+  - tools
+    - visual paradigm
+    - plantuml
+    - enterprise architect
+
+    >**Use Case versus Functional Decomposition**
+    Use cases stand for functions, functional decomposing stand for details of functions
+
+**links**
+- https://en.wikipedia.org/wiki/Requirements_analysis
+- https://scs.ewi.utwente.nl/files/teaching/guidelines_v211.pdf
+- https://www.pmexamsmartnotes.com/collect-requirements-process-tools-and-techniques-part-1-of-2/
+- https://www.pmexamsmartnotes.com/collect-requirements-process-tools-and-techniques-part-2-of-2/
+- https://en.wikipedia.org/wiki/Functional_decomposition#Software_architecture
+- https://stackoverflow.com/questions/38418346/functional-decomposition-vs-use-case
+- https://www.projectsmart.co.uk/requirements-gathering.php
+- https://en.wikipedia.org/wiki/MoSCoW_method
+- https://wikimatze.de/smart-principle/
+- https://en.wikipedia.org/wiki/SMART_criteria
 
 [comment]: # (2 hours)
 ## prototype
@@ -63,7 +113,7 @@ As a user I want to select **FROM** country and **TO** country so that I can see
     - Jest
     - Chai
     - Enzyme
-    
+
 - Backend
   - API
     - Rest
@@ -76,7 +126,7 @@ As a user I want to select **FROM** country and **TO** country so that I can see
     - H2 Database In Memory
   - Test
     - Spring Test
-    
+
 - Software Project Management
   - Maven
 
