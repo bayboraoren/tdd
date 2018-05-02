@@ -43,8 +43,9 @@
     - plantuml
     - enterprise architect
 
-    >**Use Case versus Functional Decomposition**
-    Use cases stand for functions, functional decomposing stand for details of functions
+
+>**Use Case versus Functional Decomposition**
+Use cases stand for functions, functional decomposing stand for details of functions
 
 **links**
 - https://en.wikipedia.org/wiki/Requirements_analysis
