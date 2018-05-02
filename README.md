@@ -1,11 +1,13 @@
 
 [comment]: # (Total : 84 hours, 10.5 day)
 # HOW TO START
+
 [comment]: # (2 hours)
 ## collect requirements
 - **what is it ?**
 - **is it important ?**
 - **tools and techniques ?**
+
 [comment]: # (2 hours)
 ## prototype
 - **what is it ?**
